@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	background: #444;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: 'Cutive Mono', monospace;
+}
+
+#root {
+	background: #A6DFD2;
+	color: #444;
+	border-radius: 2px;
+	height: 75%;
+	width: 75%;
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
